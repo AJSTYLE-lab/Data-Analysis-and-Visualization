@@ -1,9 +1,0 @@
-Date,Temperature,Humidity,Wind Speed,Wind Direction,Atmospheric Pressure
-Pollutant Concentrations:
-Nitrogen Dioxide,Sulphur Dioxide,Carbon Monoxide
-Geographical Features:
-Latitude,Longitude,Altitude
-Land Use/Cover:
-Urban Density,Land use types(industrial,resedential,commercial)
-Previous Air Quality levels
-Rainfal,Snowfall.
